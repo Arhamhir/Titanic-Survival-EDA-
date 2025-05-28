@@ -1,0 +1,7 @@
+﻿pandas
+seaborn
+matplotlib
+scikit-learn
+lazypredict
+joblib
+streamlit
